@@ -1,5 +1,5 @@
 # query-plans-visualiser
-A tool for visualing multiple query plans.
+A tool for visualising multiple query plans.
 
 ### Overview 
 In a DBMS, there are multiple possible query plans to successfully execute a query. The DBMS selects the most optimised plan based on internal cost calculations.
@@ -23,5 +23,5 @@ $ python app.py
 ```
 - Enter `host`, `database`, `port`, `username` and `password` for database info
 - Enter desired query
-- Click on `Explain Query` button to view comparison query plans
+- Click on `Explain Query` button to view comparisons of query plans
 - Click on `View Plans` button to visualise all query plans 
