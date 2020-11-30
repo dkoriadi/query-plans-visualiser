@@ -1,0 +1,5 @@
+anytree==2.8.0
+jsondiff==1.2.0
+psycopg2==2.8.6
+six==1.15.0
+sqlparse==0.4.1
